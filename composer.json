@@ -27,10 +27,5 @@
     },
     "autoload": {
         "psr-4": { "Ivory\\OrderedFormBundle\\": "" }
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "3.0-dev"
-        }
     }
 }
