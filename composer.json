@@ -10,9 +10,15 @@
             "email": "geloen.eric@gmail.com"
         }
     ],
+    "repositories": [
+        {
+            "url": "https://github.com/podhy/ivory-ordered-form.git",
+            "type": "git"
+        }
+    ],
     "require": {
         "symfony/framework-bundle": "^2.7|^3.0|^4.0",
-        "egeloen/ordered-form": "^3.0"
+        "egeloen/ordered-form": "dev-master#1a3efa4"
     },
     "require-dev": {
         "friendsofphp/php-cs-fixer": "^2.0",
